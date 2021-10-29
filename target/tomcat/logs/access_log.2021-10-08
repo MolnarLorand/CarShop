@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [08/Oct/2021:23:43:01 +0300] "GET /CarShop HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [08/Oct/2021:23:43:01 +0300] "GET /CarShop/ HTTP/1.1" 200 1097 http-bio-8080-exec-3 695
+0:0:0:0:0:0:0:1 - - [08/Oct/2021:23:43:01 +0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [08/Oct/2021:23:43:52 +0300] "POST /CarShop/login HTTP/1.1" 200 1090 http-bio-8080-exec-5 1112
+0:0:0:0:0:0:0:1 - - [08/Oct/2021:23:44:03 +0300] "GET /CarShop/list HTTP/1.1" 200 1907 http-bio-8080-exec-6 87
